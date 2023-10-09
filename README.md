@@ -1,0 +1,3 @@
+# binary-search-tree
+
+This program uses an AVL Binary Search Tree to model a mountain hiking expedition. A Hiker starts at the top of the mountain. They need to find their way down the mountain with limited resources. The program produces a list of all the possible paths the hiker should take. The mountain is represented by an AVL Binary Search Tree. Nodes in the tree represent a rest-stop that contain supplies and possible obstacles. Some of the supplies may help with obstacles-- if they do the supply is exhausted. The paths from the root down represent possible trails. The hiker can only go down. Not all paths lead to the bottom of the mountain.
